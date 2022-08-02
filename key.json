@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autobots-rollout-358215",
+  "private_key_id": "bc90933c41d8a321a248629fe1b3cccc91083e19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrIZGsTNC8bjFT\npj6+xQDA1vLwGLnu9MSTEBV52cIb3jweXH5kY5LH6x8ZtUlEk6b6FWs/UbR8HM55\nZPIpc3njrs3Rs9rXli6n85a+oyf+lyMuFQLafevfpCSDNBjXXiviQK0EKadm4PWx\nQOcsFLm3AssptlPnicfEaIwwIWC1ncMgG2pVB0IPElOtKu2RcF+QiZCSFXMs0Q7J\nCrrV2O7fHNWx65znBOcpwtHMQBs8E0HCsTbsJ3ZplhFfRpwzRSLccHoWUTbM0K4T\n93EDPYMFFK/RPfMDDaCr+qwtpFc3+lhhmdadx91utG7DF3iEOpwHB9d5ymvVPOxm\nT+fhkbCfAgMBAAECggEAG/K0W9G7mTzTJyQNCY7lYoaKKii+PQgiBMWgz918JDow\n/34zVcpndtTchalAiWKwMmybqqiTC+eT++ZC9H4HKx2AKwtg7pwpdTQlIwlwpmMf\nlDQneoIE0ziG+y4U6nsv5dJAiSH3Bb76j97s5hab5oQcqEYa81wIqdtawm5343j1\nOwt240zVM4f6J68MsAH/ZRUZm2H+sX8ZgvvEoOgLdiDYeMuyg2y8AvoJfAsh2RWl\nQUSZk04dzxMN4W0uIlSSgb3YT39c1WFDkcM1Ya6owcW1IeYFYTnNAvFBlFo4H0YM\nSQuCYeYHw647GEH2m0Gk29seRZodZ2xBylJjWD/xcQKBgQD8fjMXmng6yVl7/e+M\nP/Fvkmf5s3+ADo+mumvQOXIxkJWHz3HTyWcLon6d5EdxXPlT6APX9i67sdTAa83l\nfjScye5ZdMiUnEt6Sav31WY86jHTJvv/tJxSjwd7Qxoc1bpWxWSmHSoCy6VW2Tib\nqwTIkJUEZs9SdTY4fxG2au3mrwKBgQDuZaKce1mJrFDHs7/Z3sOJlRg6XuRQuACk\nvI6pboS1sA6ONyuC6mKvBkPltewO/Yhv+Vfv1idQnLlb+jN3+Ia2Da1CRvvpq5iI\neQO+jqN45ce5t4YdxMndMpTpMDeEb6RICIVqsKNod92gAawz7HRYQgx2QV2fjKeg\np1swjLhREQKBgQDPDPX8zxD0tBSLVwtPKUhlQ9u7qfROIKKwCINMty7rcjMMsZIY\nKDo2EkReWco0LhfPNJ2iRSDBjex29nBbVwjx4a1w8hFhvGEwoKVCkF5MaYf+LSPM\n5mCiWuO5sqcBKkqpySjmB1hh/nlRJMQE81Ly3Y01lNFCPxf9cEYoHruDxQKBgEMu\nxz28EUaYFgfBYy6d9ZL/Pl2swkDxKdVDAh1DdQjSvbdcWtnA/eB/LoE83HJ5Bosv\nxJVlT50LHb2K7BhCJIyHnC0SXgnC/vBu0hxQjEcU0k1HJ/eZrp20lHyGxw5+e9iE\n9jxT3SkipoViE0pqt3rr2iE1WJIPDGpc33j2HzdRAoGAa5M+REZVpNbZA1VUMHv6\neE5gM4Sh1ocH21OzEhE7GLRoTEmdDG/U+Fleqq/npo+FOlVCaFfyTVmJ5vbXETbf\nJURGM10pjPT3rkGbdFBi9GCdNYoJ8ml87FeOZQFl0iaifozNh+4jHmUoLXazi5Ei\nlF8eBkDEVF/hfYDHQht8Pvk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "megatron@autobots-rollout-358215.iam.gserviceaccount.com",
+  "client_id": "112541636816857149539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/megatron%40autobots-rollout-358215.iam.gserviceaccount.com"
+}
